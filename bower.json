@@ -1,0 +1,33 @@
+{
+  "name": "delivery",
+  "description": "food delivery",
+  "main": "",
+  "authors": [
+    "SerhiyGuivan <serhiy.guivan@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "parsleyjs": "^2.5.0",
+    "jquery.toaster": "^1.2.0",
+    "sweetalert": "^1.1.3",
+    "jQuery-viewport-checker": "^1.8.7",
+    "animate.css": "^3.5.2",
+    "jquery-smooth-scroll": "^2.0.1",
+    "angular": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "angular-bootstrap": "^2.2.0",
+    "jquery.inputmask": "^3.3.3"
+  }
+}
